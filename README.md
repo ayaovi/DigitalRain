@@ -1,6 +1,6 @@
 # DigitalRain
 
-> "I can resist everything except temptation."
+> *"I can resist everything except temptation."*
 
 -- Oscar Wilde
 
